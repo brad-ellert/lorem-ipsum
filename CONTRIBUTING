@@ -1,0 +1,5 @@
+Only 5-word lines of Lorem Ipsum may be appended to README.md.  
+Each line should be followed by two spaces to ensure it displays properly in Markdown.  
+Go to https://www.lipsum.com/, leave the number at the default of "5", select "words", and click "Generate Lorem Ipsum".  
+The easiest way to do this is to copy-and-paste into this command, replacing 'Lorem ipsum dolor sit amet.' with your line:  
+`echo 'Lorem ipsum dolor sit amet.  ' >> README.md`
